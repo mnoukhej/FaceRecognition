@@ -35,16 +35,17 @@ Before you begin, ensure you have the following installed:
 
 
 ##  Project Structure
+
 FaceRecognition/ <br>
-├── Images/                  # Folder containing images for face recognition
-├── Resources/               # Additional resources (if any)
-├── .gitignore               # Git ignore file
-├── AddDataToDatabase.py     # Script to add data to Firebase database
-├── EncodeFile.p             # Encoded face data file
-├── EncodeGenerator.py       # Script to generate face encodings
-├── README.md                # This file
-├── main.py                  # Main application script
-├── requirements.txt         # List of dependencies
-├── serviceAccountKey.json   # Firebase service account key (not included in the repo)
-├── setup.bat                # Setup script for Windows
-└── run_server.bat           # Script to run the application
+├── Images/                  # Folder containing images for face recognition    <br>
+├── Resources/               # Additional resources (if any)    <br>
+├── .gitignore               # Git ignore file    <br>
+├── AddDataToDatabase.py     # Script to add data to Firebase database    <br>
+├── EncodeFile.p             # Encoded face data file    <br>
+├── EncodeGenerator.py       # Script to generate face encodings    <br>
+├── README.md                # This file    <br>
+├── main.py                  # Main application script    <br>
+├── requirements.txt         # List of dependencies    <br>
+├── serviceAccountKey.json   # Firebase service account key (not included in the repo)    <br>
+├── setup.bat                # Setup script for Windows    <br>
+└── run_server.bat           # Script to run the application    <br>
