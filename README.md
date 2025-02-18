@@ -39,6 +39,7 @@ Before you begin, ensure you have the following installed:
 FaceRecognition/ <br>
 ├── Images/                  # Folder containing images for face recognition    <br>
 ├── Resources/               # Additional resources (if any)    <br>
+    └── Modes                # Modes (Active, Marked, Already Marked)
 ├── .gitignore               # Git ignore file    <br>
 ├── AddDataToDatabase.py     # Script to add data to Firebase database    <br>
 ├── EncodeFile.p             # Encoded face data file    <br>
