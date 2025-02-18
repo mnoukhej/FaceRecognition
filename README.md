@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 
 ##  Project Structure
-FaceRecognition/
+FaceRecognition/ <br>
 ├── Images/                  # Folder containing images for face recognition
 ├── Resources/               # Additional resources (if any)
 ├── .gitignore               # Git ignore file
