@@ -1,52 +1,33 @@
-# Face Recognition Project
+# project
 
-This project is a Python-based application for face recognition using the `face-recognition` library. It is designed to recognize faces in images or video streams and can be integrated with Firebase for data storage and retrieval.
+## Project Overview
 
-## Features
 
-- Face detection and recognition in images and video streams.
-- Integration with Firebase Firestore and Storage for data management.
-- Easy-to-use command-line interface for setup and execution.
-- Customizable `.gitignore` file for Python projects.
+## Folder Structure
 
-## Prerequisites
+<!-- TREE_START -->
 
-Before you begin, ensure you have the following installed:
+<!-- TREE_END -->
 
-- Python 3.7 or higher
-- pip (Python package manager)
-- Git (optional, for cloning the repository)
 
-## Setup Instructions for Virtual Environment:
+## 🚀 Installation
 
-- Run the setup.bat script to automate the setup process:
+### For Linux / macOS
 
-    - It will create virtualenv .venv
-
-    - Activates the virtual environment.
-    - Upgrades pip to the latest version.
-    - Installs all dependencies listed in requirements.txt.
-    - Create .gitignore file
-
-1. **Clone the Repository** (if not already cloned):
+1. Clone the repository:
    ```bash
-   git clone https://github.com/mnoukhej/FaceRecognition.git
-   cd FaceRecognition
+   git clone https://github.com/mnoukhej/.git
+
+2. Run the setup script (Windows only):
+   ```bash
+   ./setup.bat
 
 
-##  Project Structure
+## 📦 Dependencies
+<!-- - Python 3.7+
+- pandas
+- openpyxl
+- numpy -->
 
-FaceRecognition/ <br>
-├── Images/                  # Folder containing images for face recognition    <br>
-├── Resources/               # Additional resources (if any)    <br>
-    └── Modes                # Modes (Active, Marked, Already Marked)
-├── .gitignore               # Git ignore file    <br>
-├── AddDataToDatabase.py     # Script to add data to Firebase database    <br>
-├── EncodeFile.p             # Encoded face data file    <br>
-├── EncodeGenerator.py       # Script to generate face encodings    <br>
-├── README.md                # This file    <br>
-├── main.py                  # Main application script    <br>
-├── requirements.txt         # List of dependencies    <br>
-├── serviceAccountKey.json   # Firebase service account key (not included in the repo)    <br>
-├── setup.bat                # Setup script for Windows    <br>
-└── run_server.bat           # Script to run the application    <br>
+## 🔧 Configuration
+
