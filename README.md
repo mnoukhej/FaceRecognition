@@ -6,7 +6,28 @@
 ## Folder Structure
 
 <!-- TREE_START -->
-
+```
+├── AddDataToDatabase.py
+├── EncodeFile.p
+├── EncodeGenerator.py
+├── Images
+│   ├── 1592648.jpg
+│   ├── 1592649.JPG
+│   └── 1592650.JPG
+├── README.md
+├── Resources
+│   ├── Modes
+│   │   ├── 1.png
+│   │   ├── 2.png
+│   │   ├── 3.png
+│   │   └── 4.png
+│   └── background.png
+├── main.py
+├── requirements.txt
+├── serviceAccountKey.json
+├── setup.bat
+└── update_tree.py
+```
 <!-- TREE_END -->
 
 
