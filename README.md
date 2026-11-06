@@ -1,4 +1,4 @@
-# project
+# 📁 Face Recognition
 
 ## Project Overview
 
